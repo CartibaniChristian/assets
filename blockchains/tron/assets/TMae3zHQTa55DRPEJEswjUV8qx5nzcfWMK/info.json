@@ -1,0 +1,20 @@
+{
+    "name": "tether",
+    "type": "TRC20",
+    "symbol": "USDT",
+    "decimals": 6,
+    "website": "https://www.tronweb.network/#/, https://tronbox.io/#/",
+    "description": "USDT is a community (TRC20) on TRON with 6 decimals. It is the official Tether USDT. Supply and transfers follow the standard TRC20 interface.",
+    "explorer": "https://tronscan.io/#/token20/TMae3zHQTa55DRPEJEswjUV8qx5nzcfWMK",
+    "status": "active",
+    "id": "TMae3zHQTa55DRPEJEswjUV8qx5nzcfWMK",
+    "links": [
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+}
