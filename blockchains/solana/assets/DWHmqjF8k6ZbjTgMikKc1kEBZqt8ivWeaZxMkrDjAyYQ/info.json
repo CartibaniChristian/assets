@@ -1,0 +1,21 @@
+{
+  "name": "USDT SOLANAf",
+  "symbol": "USDT",
+  "type": "SPL",
+  "decimals": 6,
+  "description": "Tether tokens are the most widely adopted stablecoins, having pioneered the concept in the digital token space. A disruptor to the conventional financial system and a trailblazer in the digital use of traditional currencies.",
+  "website": "https://tether.to/",
+  "explorer": "https://solscan.io/token/DWHmqjF8k6ZbjTgMikKc1kEBZqt8ivWeaZxMkrDjAyYQ",
+  "status": "active",
+  "id": "DWHmqjF8k6ZbjTgMikKc1kEBZqt8ivWeaZxMkrDjAyYQ",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://x.com/tether/"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/tether"
+    }
+  ]
+}
