@@ -1,0 +1,11 @@
+{
+  "name": "BSC USD Token",
+  "symbol": "BSC-USD",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "BEP20 token deployed on BNB Smart Chain.",
+  "website": "https://tether.to/en/",
+  "explorer": "https://bscscan.com/token/0x06711C455c6d80a8363EE16e44457C78dfeEF3bb",
+  "status": "active",
+  "id": "0x06711C455c6d80a8363EE16e44457C78dfeEF3bb"
+}
