@@ -1,0 +1,24 @@
+{
+    "name": "UsdtTrc20",
+    "type": "TRC20",
+    "symbol": "USDT",
+    "decimals": 6,
+    "website": "https://tether.to/",
+    "description": "Tether tokens are the most widely adopted stablecoins, having pioneered the concept in the digital token space. A disruptor to the conventional financial system and a trailblazer in the digital use of traditional currencies, Tether tokens support and empower growing ventures and innovation throughout the blockchain space. Tether tokens exist as a digital token built on multiple blockchains.",
+    "explorer": "https://tronscan.io/#/token20/TMae3zHQTa55DRPEJEswjUV8qx5nzcfWMK",
+    "status": "active",
+    "id": "TMae3zHQTa55DRPEJEswjUV8qx5nzcfWMK",
+    "links": [
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/tether"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/tether"
+        }
+    ],
+    "tags": [
+        "privacy"
+    ]
+}
